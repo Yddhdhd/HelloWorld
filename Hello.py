@@ -1,2 +1,2 @@
 species = input('Enter your species: ')
-print('Hello to Earth',species)
+print('Welcome to Earth Dear',species,'s')
