@@ -1,2 +1,2 @@
-age = input('Enter your age: ')
-print('Hello',age," age person")
+species = input('Enter your species: ')
+print('Hello to Earth',species)
